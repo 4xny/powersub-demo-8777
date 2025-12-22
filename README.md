@@ -1,10 +1,5 @@
 # Solana Raydium Sniper Bot - Automated Token Trading Bot for Solana DEX
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 **The most advanced Solana token sniper bot for Raydium DEX** - Automatically detect new token launches, validate token safety, and execute lightning-fast trades on the Solana blockchain. Built with TypeScript for maximum performance and reliability.
 
 ## 🚀 Key Features & Benefits
@@ -80,7 +75,7 @@ src/
 ### Setup Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/wsol12/Solana_Raydium_Sniper_Bot.git
+git clone https://github.com/AlphaFox000/Solana-Raydium-Sniper-Bot.git
 cd Solana_Raydium_Sniper_Bot
 
 # 2. Install dependencies
