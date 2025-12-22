@@ -1,4 +1,4 @@
-# 🎯 Solana Raydium Sniper Bot - Automated Token Trading Bot for Solana DEX
+# Solana Raydium Sniper Bot - Automated Token Trading Bot for Solana DEX
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
@@ -9,27 +9,27 @@
 
 ## 🚀 Key Features & Benefits
 
-### ⚡ Lightning-Fast Token Detection
+###  Lightning-Fast Token Detection
 - **Real-time monitoring** of Raydium liquidity pool creation
 - **0-3 second execution** from token launch to trade
 - **WebSocket integration** for instant transaction notifications
 - **Advanced filtering** to catch only legitimate token launches
 
-### 🛡️ Smart Token Validation
+###  Smart Token Validation
 - **Rug pull protection** with authority checks
 - **Liquidity burn percentage** analysis
 - **Token holder distribution** validation  
 - **Mint/freeze authority** verification
 - **Automated safety scoring** system
 
-### 🎯 Professional Trading Features
+###  Professional Trading Features
 - **Customizable buy/sell strategies**
 - **Slippage protection** and MEV resistance
 - **Multi-wallet support** for advanced users
 - **Detailed transaction logging** and analytics
 - **Real-time P&L tracking**
 
-## 📊 Demo & Screenshots
+##  Demo & Screenshots
 
 ### 🎥 Live Trading Demo
 https://github.com/user-attachments/assets/1d306829-00de-44f5-8a58-5795ff45d80c
@@ -134,24 +134,6 @@ SOLANA_WSS_URL=wss://your-websocket-endpoint.com
 - **Arbitrage opportunities** - Exploit price differences
 - **DeFi research** - Analyze token launch patterns
 - **Educational purposes** - Learn Solana development
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⚠️ Disclaimer
-
-This software is for educational and research purposes. Cryptocurrency trading involves substantial risk. Always do your own research and never invest more than you can afford to lose.
-
-## 🌟 Support & Community
-
-- **Telegram**: [@wsol12](https://t.me/wsol12)
-- **Issues**: [GitHub Issues](https://github.com/wsol12/Solana_Raydium_Sniper_Bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/wsol12/Solana_Raydium_Sniper_Bot/discussions)
 
 ## 🏷️ Tags
 
