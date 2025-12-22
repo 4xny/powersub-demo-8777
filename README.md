@@ -135,12 +135,14 @@ SOLANA_WSS_URL=wss://your-websocket-endpoint.com
 - **DeFi research** - Analyze token launch patterns
 - **Educational purposes** - Learn Solana development
 
-## 🏷️ Tags
+## ⚠️ Disclaimer
 
-`solana` `raydium` `sniper-bot` `defi` `cryptocurrency` `trading-bot` `typescript` `blockchain` `automated-trading` `token-sniper` `dex` `web3` `solana-bot` `crypto-bot` `trading-automation`
+This software is provided "as is" without warranty. Use at your own risk. Always conduct thorough testing before deploying to mainnet. Some implementation details may be omitted for security reasons.
 
----
+## 🚀 Support
+
+For more detailed information, advanced configuration, or collaboration inquiries, please reach out to me directly.
+https://github.com/AlphaFox000/
 
 ⭐ **Star this repository** if you find it useful! Your support helps us continue developing and improving this tool.
 
-**Latest Release**: v1.0.0 (December 2024) | **Next Update**: Enhanced UI Dashboard (Q1 2025)
